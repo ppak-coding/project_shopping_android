@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952042331184",
+    "firebase_url": "https://parayo-ex.firebaseio.com",
+    "project_id": "parayo-ex",
+    "storage_bucket": "parayo-ex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952042331184:android:f395123153be936630a1f5",
+        "android_client_info": {
+          "package_name": "com.example.parayo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952042331184-4fkqmng6fm3f0e4i4fkt18c6ls3fgmr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiV_vfzKRDrbPFYW8R1Uz8cXr_a27edQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952042331184-4fkqmng6fm3f0e4i4fkt18c6ls3fgmr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
